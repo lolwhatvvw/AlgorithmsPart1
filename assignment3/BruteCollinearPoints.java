@@ -1,8 +1,3 @@
-/* *****************************************************************************
- *  Name:
- *  Date:
- *  Description: Very bad code
- **************************************************************************** */
 
 import edu.princeton.cs.algs4.StdDraw;
 import edu.princeton.cs.algs4.StdIn;
@@ -23,10 +18,6 @@ public class BruteCollinearPoints {
         Arrays.sort(points, new Point(-1, -1).slopeOrder());
         size = 0;
         lineSegments = mutableSegments();
-    }
-
-    public static void main(String[] args) {
-        //
     }
 
     public LineSegment[] segments() {
