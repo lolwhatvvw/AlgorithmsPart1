@@ -13,5 +13,5 @@ Solutions of programming assignments from the first part of [algorithm course](h
 
 
 
-# Requirement
+# Requirements
 [algs4](https://github.com/kevin-wayne/algs4) library
